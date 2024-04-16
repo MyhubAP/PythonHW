@@ -1,2 +1,2 @@
-# PythonHW
-DL &amp; ML Homework
+# bsuBootcamp  
+Assets and resources for BSU Data and Analysis Bootcamp
